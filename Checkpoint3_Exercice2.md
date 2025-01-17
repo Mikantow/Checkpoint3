@@ -71,5 +71,7 @@ Les composants bareos-dir, bareos-sd et bareos-fd sont installés avec une confi
 ## Partie 6 : Analyse de logs
 #### Q.2.6.1 Lister les 10 derniers échecs de connexion ayant eu lieu sur le serveur en indiquant pour chacun :
 
-La date et l'heure de la tentative
-L'adresse IP de la machine ayant fait la tentative
+La date et l'heure de la tentative  
+L'adresse IP de la machine ayant fait la tentative  
+
+<P ALIGN="center"><IMG src="\Ressources\Q2.6.1_01.png" width=500></P>  
