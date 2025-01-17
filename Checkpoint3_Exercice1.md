@@ -54,5 +54,6 @@ Restriction de connexion uniquement à la machine **CLIENT01**
 <P ALIGN="center"><IMG src="\Ressources\Q1.2.3_01.png" width=500></P>  
 <P ALIGN="center"><IMG src="\Ressources\Q1.2.3_02.png" width=500></P>  
 <P ALIGN="center"><IMG src="\Ressources\Q1.2.3_03.png" width=500></P>  
+
 ## Partie 3 : Lecteurs réseaux  
 **Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.**  
