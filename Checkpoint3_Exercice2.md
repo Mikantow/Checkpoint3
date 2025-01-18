@@ -33,11 +33,17 @@ _Effectuer en dehors du temps imparti_
 ## Partie 3 : Analyse du stockage
 #### Q.2.3.1 Quels sont les systèmes de fichiers actuellement montés ?
 _Effectuer en dehors du temps imparti_
+Les types de fichiers montés sont :
+- devtmpfs  
+- tmpfs  
+- ext4  
+- ext2  
+ ![CatureQ.2.3.1](./Ressources/Q2.3.1_01.png)
 
 #### Q.2.3.2 Quel type de système de stockage ils utilisent ?
 
 Les types de système de stockage utilisés sont RAID1 et LVM
-<P ALIGN="center"><IMG src="\Ressources\Q2.3.2_01.png" width=500></P>  
+ ![CatureQ.2.3.2](./Ressources/Q2.3.2_01.png)
 
 #### Q.2.3.3 Ajouter un nouveau disque de 8,00 Gio au serveur et réparer le volume RAID
 <P ALIGN="center"><IMG src="\Ressources\Q2.3.3_01.png" width=500></P>  
