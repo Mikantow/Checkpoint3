@@ -9,6 +9,7 @@ Ajout d'un compte utilisateur avec la commande `adduser`
 
 #### Q.2.1.2 Quelles préconisations proposes-tu concernant ce compte ? 
 _Effectuer en dehors du temps imparti_
+Je préconise de faire de ce nouveau compte un compte administrateur avec la commande suivante `usermod -aG sudo anthony`  
 
 ## Partie 2 : Configuration de SSH
 Un serveur SSH est lancé sur le port par défaut.
